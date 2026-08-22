@@ -9,3 +9,11 @@ a=7
 b=3
 print (a if a>b else b)
 
+#Using if-Else statement
+a = 7
+b = 3
+
+if a > b:
+    print(a)
+else:
+    print(b)
