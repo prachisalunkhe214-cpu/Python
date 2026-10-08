@@ -4,7 +4,7 @@ def check_result(marks):
       return "Congralution you are pass"
 
     else:
-      return"fail !Better LUCK next time"
+      return "fail !Better LUCK next time"
 
 marks=int(input("Enter mark:"))
 result=check_result(marks)
